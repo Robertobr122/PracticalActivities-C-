@@ -16,10 +16,9 @@ Each folder in this repository represents a specific project or exercise, with i
 * **Git** & **GitHub** - For version control and code hosting.
 
 
-### **Connect With Me**
+### **Conecte-se Comigo**
 
-* **[Your LinkedIn]**
-* **[Your GitHub]**
+**[\[Linkedin: Roberto Braga\]](https://www.linkedin.com/in/roberto-braga-5b3228252/)**
 
 ---
 
