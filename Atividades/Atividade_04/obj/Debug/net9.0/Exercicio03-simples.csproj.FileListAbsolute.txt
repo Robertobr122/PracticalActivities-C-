@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.AssemblyInfo.cs
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.sourcelink.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\bin\Debug\net9.0\Exercicio03-simples.exe
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\bin\Debug\net9.0\Exercicio03-simples.deps.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\bin\Debug\net9.0\Exercicio03-simples.runtimeconfig.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\bin\Debug\net9.0\Exercicio03-simples.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\bin\Debug\net9.0\Exercicio03-simples.pdb
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\refint\Exercicio03-simples.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.pdb
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\Exercicio03-simples.genruntimeconfig.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Exercicio03-simples\obj\Debug\net9.0\ref\Exercicio03-simples.dll

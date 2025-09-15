@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\bin\Debug\net9.0\Exemplo01.exe
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\bin\Debug\net9.0\Exemplo01.deps.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\bin\Debug\net9.0\Exemplo01.runtimeconfig.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\bin\Debug\net9.0\Exemplo01.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\bin\Debug\net9.0\Exemplo01.pdb
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.AssemblyInfo.cs
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.sourcelink.json
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\refint\Exemplo01.dll
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.pdb
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\Exemplo01.genruntimeconfig.cache
+C:\Users\rober\Desktop\Roberto\SMN\Atividades\C# POO\modulo-csharp-poo\Resolucoes\AtividadesPOO\Atividade01\obj\Debug\net9.0\ref\Exemplo01.dll
